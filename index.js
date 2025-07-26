@@ -3,8 +3,8 @@ const allowedReferers = [
   "https://www.lynhandmike.delgaudio.dev", // optional www
   "https://rsvp.delgaudio.dev",
   "https://www.rsvp.delgaudio.dev", // optional www
-  "https://localhost:5173", // Local development
-  "https://localhost:4173",
+  "http://localhost:5173", // Local development
+  "http://localhost:4173",
 ];
 
 const publicPaths = [
