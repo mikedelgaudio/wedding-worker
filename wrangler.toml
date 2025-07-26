@@ -2,3 +2,5 @@ name = "wedding-worker"
 main = "index.js"
 compatibility_date = "2025-07-26"
 routes = ["cdn-wedding.delgaudio.dev/*"]
+logpush = true
+usage_model = "bundled"
