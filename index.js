@@ -1,8 +1,8 @@
 const allowedReferers = [
   "https://lynhandmike.delgaudio.dev",
   "https://www.lynhandmike.delgaudio.dev", // optional www
-  "https://rsvp.delgaudio.dev",
-  "https://www.rsvp.delgaudio.dev", // optional www
+  "https://wedding.delgaudio.dev",
+  "https://www.wedding.delgaudio.dev", // optional www
   "http://localhost:5173", // Local development
   "http://localhost:4173",
 ];
