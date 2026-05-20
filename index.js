@@ -9,6 +9,7 @@ const publicPaths = [
   "/public-hero.jpg", // Full public access here
   "/public-rattlesnake.webp",
   "/public-fields.webp",
+  "/entra.jpg",
 ];
 
 function isAllowedReferer(header) {
